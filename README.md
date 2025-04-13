@@ -97,7 +97,7 @@ python main.py
 -   You can replace `example_syllabus.pptx` with any `.pptx` syllabus.
 -   The UI supports only one correct and one wrong option per question currently.
 
-## Demo
+## 🎬 Demo
 
 ![Demo of the app](assets/demo_gif.gif)
 
